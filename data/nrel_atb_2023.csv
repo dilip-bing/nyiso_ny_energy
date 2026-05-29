@@ -1,0 +1,8 @@
+technology,capital_cost_per_kw,fixed_om_per_kw_yr,var_om_per_mwh,fuel_cost_per_mwh,capacity_factor,lifetime_yr,co2_kg_per_mwh,color,type,annual_capital_per_kw_yr,lcoe_per_mwh,crf
+Solar PV (Utility),1150,17,0.0,0,0.19,30,0,#FFB703,renewable,92.7,65.9,0.0806
+Onshore Wind,1500,43,0.0,0,0.35,25,0,#219EBC,renewable,128.7,56.0,0.0858
+Offshore Wind,3200,110,0.0,0,0.44,25,0,#0077B6,renewable,274.6,99.8,0.0858
+Battery Storage (4h),1400,28,2.0,0,0.2,15,0,#8338EC,storage,153.7,105.7,0.1098
+Natural Gas (CCGT),1050,12,3.5,28,0.55,30,370,#E76F51,fossil,84.6,51.6,0.0806
+Nuclear,7200,145,2.5,8,0.93,60,12,#6D6875,low_carbon,512.9,91.2,0.0712
+Hydropower,2800,45,1.0,0,0.52,50,4,#2EC4B6,renewable,202.9,55.4,0.0725

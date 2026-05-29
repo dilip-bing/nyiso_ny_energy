@@ -1,0 +1,13 @@
+# Runtime dependencies — dashboard + optimizer
+# Pinned to tested versions (local env: May 2026)
+streamlit==1.50.0
+pulp==3.3.1
+pandas==2.3.3
+numpy>=1.24.0
+plotly==6.7.0
+
+# Dev / notebook (not needed for deployment, uncomment locally)
+# pytest>=8.0.0
+# nbformat>=5.10.0
+# scipy>=1.11.0
+# openpyxl>=3.1.0

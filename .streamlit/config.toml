@@ -1,0 +1,21 @@
+[theme]
+# Base must be "light" — our CSS injection handles the dark sidebar
+# and the #F5F5F7 page background. Without this, Streamlit Cloud
+# may default to a dark base that fights our custom styles.
+base = "light"
+backgroundColor      = "#F5F5F7"
+secondaryBackgroundColor = "#1D1D1F"
+textColor            = "#1D1D1F"
+font                 = "sans serif"
+
+[server]
+headless             = true      # required for Streamlit Cloud / Docker
+enableCORS           = false
+enableXsrfProtection = true
+maxUploadSize        = 10        # MB — no file uploads in this app
+
+[browser]
+gatherUsageStats     = false     # disable telemetry
+
+[runner]
+fastReruns           = true      # snappier widget interactions
