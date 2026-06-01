@@ -4,7 +4,7 @@ streamlit==1.50.0
 pulp==3.3.1
 pandas==2.3.3
 numpy>=1.24.0
-plotly>=5.15.0,<6.0.0
+plotly==5.24.1
 
 # Dev / notebook (not needed for deployment, uncomment locally)
 # pytest>=8.0.0
