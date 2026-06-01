@@ -207,7 +207,7 @@ p, li, td, th, div.stMarkdown p {{
 [data-testid="stSidebar"] .stMarkdown p,
 [data-testid="stSidebar"] .stCaption,
 [data-testid="stSidebar"] li {{
-    color: #636366 !important;
+    color: #8E8E93 !important;
     font-size: 0.875rem !important;
     line-height: 1.6 !important;
 }}
@@ -354,21 +354,21 @@ div[data-testid="column"] > div > div > div > div.element-container {{
     font-weight: 700 !important;
     letter-spacing: .16em !important;
     text-transform: uppercase !important;
-    color: #48484A !important;
+    color: #86868B !important;
     margin: 16px 0 4px !important;
     padding: 0 !important;
     line-height: 1.2 !important;
 }}
 [data-testid="stSidebar"] p.sidebar-meta {{
     font-size: 0.8125rem !important;
-    color: #636366 !important;
+    color: #AEAEB2 !important;
     line-height: 1.9 !important;
     margin: 0 !important;
     padding: 0 !important;
 }}
 [data-testid="stSidebar"] p.sidebar-footer {{
     font-size: 0.775rem !important;
-    color: #3A3A3C !important;
+    color: #8E8E93 !important;
     line-height: 1.8 !important;
     margin: 16px 0 0 !important;
     padding: 12px 0 0 !important;
